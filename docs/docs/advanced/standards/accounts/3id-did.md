@@ -1,4 +1,4 @@
-# **3ID DID Accounts**
+## **3ID DID Accounts**
 
 The 3ID DID Method (CIP-79) is a Ceramic-native account which can be used to authenticate to Ceramic to perform transactions on streams. 
 
